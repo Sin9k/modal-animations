@@ -1,0 +1,12 @@
+.button {
+  width: 300px;
+  height: 40px;
+  font-size: 18px;
+}
+
+.modalContent {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
