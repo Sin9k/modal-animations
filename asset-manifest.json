@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/modal-animations/static/css/main.5a37713f.css",
-    "main.js": "/modal-animations/static/js/main.f70ac382.js",
+    "main.css": "/modal-animations/static/css/main.cc32cb51.css",
+    "main.js": "/modal-animations/static/js/main.e4ec5ad6.js",
     "static/js/787.2338dbd6.chunk.js": "/modal-animations/static/js/787.2338dbd6.chunk.js",
     "index.html": "/modal-animations/index.html",
-    "main.5a37713f.css.map": "/modal-animations/static/css/main.5a37713f.css.map",
-    "main.f70ac382.js.map": "/modal-animations/static/js/main.f70ac382.js.map",
+    "main.cc32cb51.css.map": "/modal-animations/static/css/main.cc32cb51.css.map",
+    "main.e4ec5ad6.js.map": "/modal-animations/static/js/main.e4ec5ad6.js.map",
     "787.2338dbd6.chunk.js.map": "/modal-animations/static/js/787.2338dbd6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a37713f.css",
-    "static/js/main.f70ac382.js"
+    "static/css/main.cc32cb51.css",
+    "static/js/main.e4ec5ad6.js"
   ]
 }
