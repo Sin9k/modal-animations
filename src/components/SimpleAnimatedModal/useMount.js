@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
-
-export const ANIMATION_TIME = 300;
+import { ANIMATION_TIME } from "./Layout/const";
 
 export const useMount = ({ opened }) => {
   const [mounted, setMounted] = useState(false);
